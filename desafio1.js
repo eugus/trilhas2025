@@ -15,9 +15,9 @@ console.log(altura);
 
 var preco = 50;
 var desconto = 0.2;
-var valorDesconto = preco * desconto;
-var precoComDesconto = preco - valorDesconto;
-console.log(precoComDesconto);
+var valordesconto = preco * desconto;
+var precocomdesconto = preco - valordesconto;
+console.log(precocomdesconto);
 
 //Crie uma variável chamada temperatura e atribua o valor 30. Se a temperatura for maior que 25, exiba a mensagem "Está calor!". Caso contrário, exiba "Está fresco
 
@@ -124,7 +124,7 @@ z = x+y
 
 console.log(z)
 
-//Refatorado:
+//Ajustando o código para melhor:
 
 
 function somarNumeros(num1, num2) {
